@@ -1,6 +1,6 @@
 # Mits
-##Project
-###Front nano degree
+## Project
+### Front nano degree
 **The students are eligible**
 the students are eligible
 `jasmin`
