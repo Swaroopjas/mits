@@ -7,6 +7,6 @@ the students are eligible
 1. swaroop
 2. jyothi  swaroop
 3. reddy
-  +dsfghj
-  -serti
- _swaroop_
+  + dsfghj
+  - serti
+_ swaroop _
